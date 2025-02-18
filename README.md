@@ -42,4 +42,6 @@ If you encounter any issues, please feel free to report them using the [GitHub I
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+<br/>
+<br/>
 I chose MIT license since I don't mind people using or editing my project's code on their local machine, while also suggesting changes and reporting issues if they want to.
