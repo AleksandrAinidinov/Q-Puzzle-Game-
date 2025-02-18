@@ -7,6 +7,7 @@ Q-Puzzle Game: A puzzle game where players move colored boxes across a grid to m
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Issue Tracker](#issue-tracker)
 - [License](#license)
 
 ## Features
@@ -35,6 +36,9 @@ To run the project:
 3. Make your changes.
 4. Push your branch: `git push origin feature-name`.
 5. Create a pull request.
+
+## Issue Tracker
+If you encounter any issues, please feel free to report them using the [GitHub Issues](https://github.com/AleksandrAinidinov/Q-Puzzle-Game-/issues) section.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
