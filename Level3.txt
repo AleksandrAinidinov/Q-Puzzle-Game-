@@ -1,0 +1,16 @@
+15, 15
+Wall|Wall|Wall|Wall|RedDoor|Wall|Wall|Wall|GreenDoor|Wall|Wall|Wall|Wall|Wall|Wall|
+Wall|BlueBox|Empty|Empty|Empty|Empty|RedBox|Empty|Empty|Empty|Empty|Empty|Wall|Wall|Wall|
+Wall|RedBox|Empty|Empty|Empty|Wall|Empty|Empty|Empty|Empty|Empty|Empty|Wall|Wall|Wall|
+RedDoor|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|GreenDoor|
+Wall|Wall|Wall|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Wall|
+Wall|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Wall|Empty|Empty|Empty|Empty|Wall|
+Wall|GreenBox|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Wall|Empty|Empty|Empty|Empty|Wall|
+Wall|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Wall|Empty|Empty|Empty|Empty|Wall|
+Wall|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|GreenDoor|
+Wall|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|BlueDoor|
+Wall|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Wall|
+Wall|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Wall|
+Wall|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Wall|
+BlueDoor|GreenBox|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|Empty|BlueBox|Wall|
+Wall|Wall|Wall|Wall|Wall|Wall|RedDoor|Wall|Wall|Wall|Wall|BlueDoor|Wall|Wall|Wall|

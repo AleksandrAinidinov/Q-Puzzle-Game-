@@ -1,0 +1,9 @@
+8, 8
+Wall|Wall|RedDoor|Wall|Wall|Wall|Wall|Wall|
+Wall|GreenBox|Empty|BlueBox|Empty|Wall|Wall|Wall|
+Wall|Wall|Empty|Empty|Empty|Empty|Wall|Wall|
+Wall|Empty|Empty|Empty|Empty|Empty|Empty|Wall|
+Wall|Empty|Empty|Empty|Empty|Empty|Empty|Wall|
+Wall|BlueBox|Empty|Empty|Empty|Empty|Empty|BlueDoor|
+GreenDoor|Empty|Empty|Empty|Empty|Empty|Empty|Wall|
+Wall|Wall|Wall|BlueDoor|Wall|Wall|Wall|Wall|

@@ -1,0 +1,13 @@
+# Ignore Visual Studio specific files
+.vs/
+*.vspscc
+.vscode/
+.idea/
+
+# Ignore build directories and system files
+bin/
+obj/
+# Ignore macOS system files
+.DS_Store
+# Ignore Windows system files
+Thumbs.db
